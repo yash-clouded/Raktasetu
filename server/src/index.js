@@ -13,8 +13,8 @@ import { Server } from 'socket.io';
 import { buildState, snapshot } from './state.js';
 import { createSimulation } from './simulation.js';
 
-const PORT = 4000;
-const ALLOWED_ORIGIN = 'http://localhost:5173';
+const PORT = process.env.PORT || 4000;
+const ALLOWED_ORIGIN = process.env.ALLOWED_ORIGIN || 'https://raktasetu-demo.vercel.app';
 
 const app = express();
 app.use(cors({ origin: ALLOWED_ORIGIN }));
