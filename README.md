@@ -152,6 +152,8 @@ provider. Maps are inline SVG, projecting lat/lng linearly into the viewBox
 
 The Android client is **not** part of this build — this is web-only (OS +
 Ambulance screens, real-time synced). The APK is a separate later step.
+
+The photos are attached below for the mobile interface and OS+MHC interface with the Gov pictures included
 <img width="787" height="1600" alt="WhatsApp Image 2026-08-08 at 17 21 51 (1)" src="https://github.com/user-attachments/assets/061e156a-bf29-4258-b314-25e928120177" />
 <img width="787" height="1600" alt="WhatsApp Image 2026-08-08 at 17 21 51" src="https://github.com/user-attachments/assets/137a40c7-b4e6-48ca-9f33-61fdbcddc5ac" />
 <img width="787" height="1600" alt="WhatsApp Image 2026-08-08 at 17 21 50 (1)" src="https://github.com/user-attachments/assets/b5cdbb43-3ced-44b9-b8ca-bb14c8ea2470" />
