@@ -1,5 +1,9 @@
 # Raktasetu — blood-network coordination demo (OS + Ambulance)
 
+Live demo link - https://raktasetu-demo.vercel.app
+Run the Backend In your Laptop 
+If you want to connect the phone and laptop to real time just connect to the personal hotspot of the mobile.
+
 > **⚠ Demo disclaimer — read first.** Every "connected" indicator, the
 > **e-RaktKosh (demo)** status badge, the `Connected`/`Offline` pill, and
 > `/api/health` are **simulated**. This project calls **no external API**, uses
@@ -148,3 +152,15 @@ provider. Maps are inline SVG, projecting lat/lng linearly into the viewBox
 
 The Android client is **not** part of this build — this is web-only (OS +
 Ambulance screens, real-time synced). The APK is a separate later step.
+
+The photos are attached below for the mobile interface and OS+MHC interface with the Gov pictures included
+<img width="787" height="1600" alt="WhatsApp Image 2026-08-08 at 17 21 51 (1)" src="https://github.com/user-attachments/assets/061e156a-bf29-4258-b314-25e928120177" />
+<img width="787" height="1600" alt="WhatsApp Image 2026-08-08 at 17 21 51" src="https://github.com/user-attachments/assets/137a40c7-b4e6-48ca-9f33-61fdbcddc5ac" />
+<img width="787" height="1600" alt="WhatsApp Image 2026-08-08 at 17 21 50 (1)" src="https://github.com/user-attachments/assets/b5cdbb43-3ced-44b9-b8ca-bb14c8ea2470" />
+<img width="787" height="1600" alt="WhatsApp Image 2026-08-08 at 17 21 50" src="https://github.com/user-attachments/assets/14fc923c-2783-4573-9fb5-088f0e0d5e59" />
+<img width="1476" height="784" alt="Screenshot 2026-08-08 at 5 18 43 PM" src="https://github.com/user-attachments/assets/f173fb54-ccb5-475f-a2fd-9804a83ff4d2" />
+<img width="1479" height="787" alt="Screenshot 2026-08-08 at 5 18 59 PM" src="https://github.com/user-attachments/assets/d7755740-0ae1-4ed7-b41b-b98c283d60e3" />
+<img width="1477" height="784" alt="Screenshot 2026-08-08 at 5 19 20 PM" src="https://github.com/user-attachments/assets/d61e775a-d8e4-402b-a830-5aa0d7b493c3" />
+
+<img width="1469" height="788" alt="Screenshot 2026-08-08 at 5 19 32 PM" src="https://github.com/user-attachments/assets/fddbd0fc-0ab0-406a-9762-252491a54f05" />
+
