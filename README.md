@@ -1,5 +1,9 @@
 # Raktasetu — blood-network coordination demo (OS + Ambulance)
 
+Live demo link - https://raktasetu-demo.vercel.app
+Run the Backend In your Laptop 
+If you want to connect the phone and laptop to real time just connect to the personal hotspot of the mobile.
+
 > **⚠ Demo disclaimer — read first.** Every "connected" indicator, the
 > **e-RaktKosh (demo)** status badge, the `Connected`/`Offline` pill, and
 > `/api/health` are **simulated**. This project calls **no external API**, uses
